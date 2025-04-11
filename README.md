@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Sandhya Peddi
 
-<!--
-**SandhyaPeddi2505/SandhyaPeddi2505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Frontend Developer | ReactJS • JavaScript • HTML • CSS | 2+ Yrs Experience  
+💻 Passionate about building responsive, scalable web applications  
+🎯 Currently working as Software Engineer @ Mouri Tech  
+📫 Reach me at: peddisandhya2000@gmail.com  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Frontend:** ReactJS, HTML5, CSS3, Bootstrap, JavaScript (ES6+)
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Tools:** Git, GitHub, VS Code, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
