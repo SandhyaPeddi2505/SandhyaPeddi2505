@@ -8,6 +8,6 @@
 ## 🛠️ Tech Stack
 - **Frontend:** ReactJS, HTML5, CSS3, Bootstrap, JavaScript (ES6+)
 - **Backend:** Node.js, Express
-- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Databases:** MongoDB, PostgreSQL
 - **Tools:** Git, GitHub, VS Code, Postman
 
