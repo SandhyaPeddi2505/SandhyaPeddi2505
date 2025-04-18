@@ -9,5 +9,5 @@
 - **Frontend:** ReactJS, HTML5, CSS3, Bootstrap, JavaScript (ES6+)
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB, PostgreSQL
-- **Tools:** Git, GitHub, VS Code, Postman
+- **Tools:** Git, GitHub, VS Code, Postman , WinScp ,Putty.
 
